@@ -4,4 +4,4 @@ Como colocar isto em wordpress? - https://stackoverflow.com/questions/20849988/p
 
 ## Porque estou a guardar isto aqui?
 
- Porque o código aqui presente pode servir para um projeto que vou tentar fazer no futuro
+ Porque o código aqui presente pode servir para um projeto com machine learning
